@@ -50,11 +50,21 @@ li a:hover{
 
 }
 #main{
-    max-width: fit-content;
+   
     background-color:#1F2833;
-   padding-inline:20%;
-   padding-block:8%;
-    margin:auto;
+    font-size:x-large;
+    border-radius:16px;
+    border-style:double;
+    color: #45A29E;
+    font-family: consolas;
+    
+}
+
+.extra{
+  
+    background-color:#1F2833;
+    padding-inline: 20px;
+ padding: 12px;
     font-size:x-large;
     border-radius:16px;
     border-style:double;
@@ -66,9 +76,6 @@ li a:hover{
 #resume{
     max-width: fit-content;
     background-color:#1F2833;
-   padding-inline:20%;
-   padding-block:8%;
-    margin:auto;
     font-size:large;
     border-radius:16px;
     border-style:double;
