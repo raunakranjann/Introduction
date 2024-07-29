@@ -64,8 +64,20 @@ li a:hover{
   
     background-color:#1F2833;
     padding-inline: 20px;
+    margin: auto;
  padding: 12px;
-    font-size:x-large;
+    font-size:large;
+    border-radius:16px;
+    border-style:double;
+    color: #45A29E;
+    font-family: consolas;
+    
+}
+.cards{
+    margin: auto;
+    background-color:#1F2833;
+    padding: 20px;
+    font-size:large;
     border-radius:16px;
     border-style:double;
     color: #45A29E;
